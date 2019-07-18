@@ -1,0 +1,7 @@
+target/
+.idea/
+.settings/
+KeepNote-Step1-Boilerplate.iml
+.classpath
+.hobbes
+.project
